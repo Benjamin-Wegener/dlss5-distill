@@ -1,5 +1,7 @@
 # dlss5-distill: Real-Time 2x Neural Super-Resolution via RepVGG Fusion & Anti-Ringing GAN Distillation
 
+![3-Way Split Comparison: 540p Bicubic vs DLSS 5 Distill vs 1080p Target](assets/comparison_beach_triplet.png)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Framework](https://img.shields.io/badge/PyTorch-MPS%20%7C%20CUDA%20%7C%20CPU-ee4c2c.svg)](https://pytorch.org/)
 [![Performance](https://img.shields.io/badge/FPS-45%2B%20(1080p%20Realtime)-brightgreen.svg)]()
@@ -7,8 +9,6 @@
 An ultra-compact (~48k parameter deployable) real-time 2x neural super-resolution model designed for edge devices, Apple Silicon Metal (MPS), and WebGPU. 
 
 It leverages **Structural Re-Parameterization (RepVGG multi-branch training fused to a single 3x3 convolution)**, **Parameter-Free Spatial Attention**, and **Anti-Ringing Local-Range Penalty Distillation**.
-
-![3-Way Split Comparison: 540p Bicubic vs DLSS 5 Distill vs 1080p Target](assets/comparison_beach_triplet.png)
 
 ---
 
