@@ -1,6 +1,6 @@
 # dlss5-distill: Real-Time 2x Neural Super-Resolution via RepVGG Fusion & Anti-Ringing GAN Distillation
 
-![3-Way Split Comparison: 540p Bicubic vs DLSS 5 Distill vs 1080p Target](assets/comparison_beach_triplet.png)
+![3-Way Split Comparison: 540p Bicubic vs DLSS 5 Distill vs 1080p Target](assets/comparison_beach_loop.gif)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Framework](https://img.shields.io/badge/PyTorch-MPS%20%7C%20CUDA%20%7C%20CPU-ee4c2c.svg)](https://pytorch.org/)
