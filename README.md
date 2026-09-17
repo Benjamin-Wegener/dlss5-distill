@@ -8,6 +8,8 @@ An ultra-compact (~48k parameter deployable) real-time 2x neural super-resolutio
 
 It leverages **Structural Re-Parameterization (RepVGG multi-branch training fused to a single 3x3 convolution)**, **Parameter-Free Spatial Attention**, and **Anti-Ringing Local-Range Penalty Distillation**.
 
+![3-Way Split Comparison: 540p Bicubic vs DLSS 5 Distill vs 1080p Target](assets/comparison_beach_triplet.png)
+
 ---
 
 ### ⚠️ Disclaimer & Attribution
